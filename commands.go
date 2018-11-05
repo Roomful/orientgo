@@ -5,7 +5,7 @@ import (
 	"io"
 	"reflect"
 
-	"gopkg.in/istreamdata/orientgo.v2/obinary/rw"
+	"github.com/Roomful/orientgo/obinary/rw"
 )
 
 var (

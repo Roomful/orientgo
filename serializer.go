@@ -3,7 +3,7 @@ package orient
 import (
 	"bytes"
 	"fmt"
-	"gopkg.in/istreamdata/orientgo.v2/obinary/rw"
+	"github.com/Roomful/orientgo/obinary/rw"
 	"io"
 )
 
